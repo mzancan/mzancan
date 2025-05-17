@@ -33,8 +33,9 @@
 
 </details>
 
+\
 My favorite quote:
-> "L'homme est un singe avec des clés de char."
+> *"L'homme est un singe avec des clés de char."*
 — Capitaine Patenaude
 
 <!--

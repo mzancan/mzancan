@@ -37,7 +37,6 @@ My favorite quote:
 > "L'homme est un singe avec des clés de char."
 — Capitain Patenaude
 
-
 <!--
-Add more things later
+Add more things later.
 -->

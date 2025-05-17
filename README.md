@@ -35,7 +35,7 @@ My favorite quote:
 \
 ![Me according to Studio Ghibli](https://github.com/user-attachments/assets/e44a5ae8-b660-4001-b742-453ffa40c5d1)
 
-<sup>Me according to Studio Ghibli</sup>
+<sup>*Me according to Studio Ghibli</sup>
 
 <!--
 Add more things later.

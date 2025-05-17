@@ -1,6 +1,6 @@
 ## Hey 👋🏼
 
-- I'm a marketer expert in media strategy and planning.  📺
+- I'm a marketer, expert in media strategy and planning.  📺
 - I'm here to learn some basic programming juste for fun.  💻
 - I think I'm going to build a website. I don't why yet.  🏗️ 🤷🏻‍♂️
 - Yes, it is my cat.  😸

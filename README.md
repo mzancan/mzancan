@@ -1,9 +1,3 @@
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://imgur.com/a/maz-according-to-studio-ghibli-DJwb0Ec">
- <source media="(prefers-color-scheme: light)" srcset="https://imgur.com/a/maz-according-to-studio-ghibli-DJwb0Ec">
- <img alt="Me according to Studio Ghibli" src="https://imgur.com/a/maz-according-to-studio-ghibli-DJwb0Ec">
-</picture>
-
 ## Hey 👋🏼
 
 - I'm a marketer expert in media strategy and planning.  📺
@@ -37,6 +31,8 @@
 My favorite quote:
 > *"L'homme est un singe avec des clés de char."*
 — Capitaine Patenaude
+
+![Me according to Studio Ghibli](https://github.com/user-attachments/assets/e44a5ae8-b660-4001-b742-453ffa40c5d1)
 
 <!--
 Add more things later.

@@ -1,6 +1,6 @@
 ## Hey 👋🏼
 
-- I'm a marketer, expert in media strategy and planning.  📺
+- I'm a marketer. Expert in media strategy and planning.  📺
 - I'm here to learn some basic programming juste for fun.  💻
 - I think I'm going to build a website. I don't why yet.  🏗️ 🤷🏻‍♂️
 - Yes, it is my cat.  😸
@@ -35,7 +35,7 @@ My favorite quote:
 \
 ![Me according to Studio Ghibli](https://github.com/user-attachments/assets/e44a5ae8-b660-4001-b742-453ffa40c5d1)
 
-<sup>*Me according to Studio Ghibli</sup>
+<sup>*A Studio Ghibli version of me.</sup>
 
 <!--
 Add more things later.
